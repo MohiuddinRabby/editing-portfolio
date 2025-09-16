@@ -2612,3 +2612,6 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+.custom_color {
+  color: #ccd6f6 !important;
+}
